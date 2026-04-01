@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller folders
+build/
+dist/
+*.spec
+
+# Test images / Temporary files
+test_images/
+*.log
+
+# Windows specific
+Thumbs.db
+Desktop.ini
